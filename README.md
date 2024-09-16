@@ -99,8 +99,8 @@ Thank you for exploring SolarVue. I hope it inspires curiosity about the vastnes
 
 ## Project Description
 
-The project description can be found in this [Google Slide](https://docs.google.com/document/d/your-link-here).
+The project description can be found in this [Google Slide](https://docs.google.com/presentation/d/1WbvFzB7DjGShzX8-tz49lP5bGEskhCrvJ1t07qOFhUA/edit?usp=sharing).
 
 ## Preview
 
-![](https://media.giphy.com/media/n53ayMhbbkn2QHZSfA/giphy.gif)
+
