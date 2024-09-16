@@ -6,8 +6,6 @@ SolarVue is a web application designed to help users explore the planets of our 
 
 ## Links
 
-• Deployed Site: [Inprogress](https://github.com/SolomonA17)
-
 • Author LinkedIn: [Solomon Aberra](https://www.linkedin.com/in/solomon-aberra17/)
 
 ## Installation
